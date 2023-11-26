@@ -75,7 +75,8 @@
 Currently, optimization strategies serve as pillars of progress in engineering design research and myriad other domains, shaping efficiency, precision, and innovation. In medical robotics, these methods ensure surgical precision, navigating delicate procedures within the body while minimizing invasiveness and maximizing patient outcomes. Engineering marvels, from transportation systems to sustainable energy, owe their efficiency and functionality to optimization techniques. The present work focuses on the implementation of classic optimization strategies, such as Linear Programming, Newton, Secant, Gradient descent, stepeest descent,and other algorithms within Matlab. Besides the implementaion,a report was written analyzing the results, such as convergence in local and global minimum, time and number of iterations for convergence and efficiency of the models.
 
 Keywords: Engineering, Robotics, Optimization, Medical Field, Algorithms, Matlab.
-[Full article](https://github.com/Jesse-Alves/Implementation-of-Optimization-Codes/blob/main/Optimization%20Report.pdf)
+
+[(Full article)](https://github.com/Jesse-Alves/Implementation-of-Optimization-Codes/blob/main/Optimization%20Report.pdf)
 
 <!--
 <p float="left">
@@ -86,8 +87,8 @@ Keywords: Engineering, Robotics, Optimization, Medical Field, Algorithms, Matlab
 
 <div align="center">
   <a href=" ">
-    <img src="images/img1.jpg" width="350" height="200" />
-    <img src="images/img2.jpg" width="350" height="200" />
+    <img src="images/img1.jpg" width="375" height="250" />
+    <img src="images/img2.jpg" width="375" height="250" />
   </a>
 </div>
 
